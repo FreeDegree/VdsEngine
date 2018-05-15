@@ -1,0 +1,8 @@
+E:\GeoDoSDK\GEarthCSharp\GEarthCSharp\GEarthPluginBase\bin\Debug\GEarthPluginBase.dll
+E:\GeoDoSDK\GEarthCSharp\GEarthCSharp\GEarthPluginBase\bin\Debug\GEarthPluginBase.pdb
+E:\GeoDoSDK\GEarthCSharp\GEarthCSharp\bin\Debug\GEarthPluginBase.dll
+E:\GeoDoSDK\GEarthCSharp\GEarthCSharp\bin\Debug\GEarthPluginBase.pdb
+E:\GeoDoSDK\GEarthCSharp\GEarthCSharp\bin\Debug\CSharp\GEarthPluginBase.dll
+E:\GeoDoSDK\GEarthCSharp\GEarthCSharp\bin\Debug\CSharp\GEarthPluginBase.pdb
+E:\GeoDoSDK\GEarthCSharp\GEarthCSharp\GEarthPluginBase\obj\Debug\GEarthPluginBase.dll
+E:\GeoDoSDK\GEarthCSharp\GEarthCSharp\GEarthPluginBase\obj\Debug\GEarthPluginBase.pdb

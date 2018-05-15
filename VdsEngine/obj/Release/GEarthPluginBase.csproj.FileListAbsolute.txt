@@ -1,0 +1,5 @@
+E:\GeoDoSDK\GEarthCSharp\GEarthCSharp\bin\Release\CSharp\GEarthPluginBase.dll
+E:\GeoDoSDK\GEarthCSharp\GEarthCSharp\bin\Release\CSharp\GEarthPluginBase.pdb
+E:\GeoDoSDK\GEarthCSharp\GEarthCSharp\GEarthPluginBase\obj\Release\GEarthPluginBase.dll
+E:\GeoDoSDK\GEarthCSharp\GEarthCSharp\GEarthPluginBase\obj\Release\GEarthPluginBase.pdb
+E:\GeoDoSDK\GEarthCSharp\GEarthCSharp\GEarthPluginBase\obj\Release\GEarthPluginBase.csprojResolveAssemblyReference.cache

@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{7EA957B3-B8CB-4944-BEAF-F3D634B8F53B}|Default" StartupItem="CSharpAssembly\CSharpAssembly.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="E:\VdsEngine\VdsEngine\VdsEngine\PlotEventActorRotaryMotion.cs" line="199" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="VdsEngine\MonoBehaviour.cs">
+    <Files>
+      <File FileName="CSharpAssembly\HelloWorld.cs" Line="1" Column="1" />
+      <File FileName="e:\VdsEngine\VdsEngine\VdsEngine\VdsClass\VdsActorBase.cs" Line="1" Column="1" />
+      <File FileName="e:\VdsEngine\VdsEngine\VdsEngine\VdsClass\VdsActor.cs" Line="1" Column="1" />
+      <File FileName="VdsEngine\MonoBehaviour.cs" Line="166" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <DisabledProjects>
+    <String>MeteorologicalOceanAddIns\MeteorologicalOceanAddIns.csproj</String>
+  </DisabledProjects>
+</Properties>

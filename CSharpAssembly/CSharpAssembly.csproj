@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{397E2395-18A2-4A1E-90C5-6B8E2718FBF2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>CSharpAssembly</RootNamespace>
+    <AssemblyName>CSharpAssembly</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\bin\Debug\CSharp\</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <CustomCommands>
+      <CustomCommands>
+        <Command type="Execute" command="..\..\..\VirtualDataScene\SLN32\bin\VDSEditord.exe" workingdir="..\..\..\VirtualDataScene\SLN32\bin" />
+      </CustomCommands>
+    </CustomCommands>
+    <Externalconsole>true</Externalconsole>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\bin\Release\CSharp\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TestCall.cs" />
+    <Compile Include="TestTransmitParameter.cs" />
+    <Compile Include="HelloWorld.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <ProjectReference Include="..\VdsEngine\VdsEngine.csproj">
+      <Project>{7EA957B3-B8CB-4944-BEAF-F3D634B8F53B}</Project>
+      <Name>VdsEngine</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System.Xml">
+      <HintPath>..\bin\Debug\CSharp\System.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>..\bin\Debug\CSharp\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration">
+      <HintPath>..\bin\Debug\CSharp\System.Configuration.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <PropertyGroup>
+    <PostBuildEvent>call $(TargetDir)afterbuild.bat
+call $(TargetDir)afterbuild2.bat</PostBuildEvent>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,9 @@
+E:\VdsEngine\VdsEngine\MichineRoomPlugin\bin\Debug\MichineRoomPlugin.dll
+E:\VdsEngine\VdsEngine\MichineRoomPlugin\bin\Debug\MichineRoomPlugin.pdb
+E:\VdsEngine\VdsEngine\MichineRoomPlugin\bin\Debug\VdsEngine.dll
+E:\VdsEngine\VdsEngine\MichineRoomPlugin\bin\Debug\VdsEngine.pdb
+E:\VdsEngine\VdsEngine\bin\Debug\CSharp\MichineRoomPlugin.dll
+E:\VdsEngine\VdsEngine\bin\Debug\CSharp\MichineRoomPlugin.pdb
+E:\VdsEngine\VdsEngine\MichineRoomPlugin\obj\Debug\MichineRoomPlugin.csprojResolveAssemblyReference.cache
+E:\VdsEngine\VdsEngine\MichineRoomPlugin\obj\Debug\MichineRoomPlugin.dll
+E:\VdsEngine\VdsEngine\MichineRoomPlugin\obj\Debug\MichineRoomPlugin.pdb

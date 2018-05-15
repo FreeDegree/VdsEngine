@@ -1,0 +1,9 @@
+E:\VdsEngine\bin\Debug\CSharp\VdsEngine.dll
+E:\VdsEngine\bin\Debug\CSharp\VdsEngine.pdb
+E:\VdsEngine\VdsEngine\obj\Debug\VdsEngine.dll
+E:\VdsEngine\VdsEngine\obj\Debug\VdsEngine.pdb
+E:\VdsEngine\VdsEngine\bin\Debug\CSharp\VdsEngine.dll
+E:\VdsEngine\VdsEngine\bin\Debug\CSharp\VdsEngine.pdb
+E:\VdsEngine\VdsEngine\VdsEngine\obj\Debug\VdsEngine.dll
+E:\VdsEngine\VdsEngine\VdsEngine\obj\Debug\VdsEngine.pdb
+E:\VdsEngine\VdsEngine\VdsEngine\obj\Debug\VdsEngine.csprojResolveAssemblyReference.cache

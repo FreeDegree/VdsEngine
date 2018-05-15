@@ -1,0 +1,5 @@
+E:\VdsEngine\VdsEngine\bin\Debug\CSharp\CSharpAssembly.dll
+E:\VdsEngine\VdsEngine\bin\Debug\CSharp\CSharpAssembly.pdb
+E:\VdsEngine\VdsEngine\CSharpAssembly\obj\Debug\CSharpAssembly.csprojResolveAssemblyReference.cache
+E:\VdsEngine\VdsEngine\CSharpAssembly\obj\Debug\CSharpAssembly.dll
+E:\VdsEngine\VdsEngine\CSharpAssembly\obj\Debug\CSharpAssembly.pdb
